@@ -24,7 +24,11 @@ A responsive, static website concept for a fictional community charity in Gqeber
 ├── assets/
 │   ├── css/style.css
 │   └── js/script.js
-
+├── sitemap.xml
+├── robots.txt
+├── .gitattributes
+└── README.md
+.
 
 
 ## Features
