@@ -16,6 +16,8 @@ A responsive, static website concept for a fictional community charity in Gqeber
 ## Project structure
 ```text
 ├── index.html
+├── pages/
+│   ├── about.html
 
 .
 
