@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tshepiso07.github.io/hopefoundationsouthafrica/sitemap.xml
