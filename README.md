@@ -14,6 +14,8 @@ A responsive, static website concept for a fictional community charity in Gqeber
 
 ## Features
 - Responsive layout for mobile, tablet and desktop
+- Mobile navigation menu toggle
+
 
 
 Shared styles and behaviour are in `assets/css/style.css` and `assets/js/script.js`.
