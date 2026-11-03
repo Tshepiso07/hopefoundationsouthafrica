@@ -9,7 +9,7 @@ A responsive, static website concept for a fictional community charity in Gqeber
 - `index.html` — home page.
 - `pages/about.html` — mission, vision, and values
 - `pages/services.html` — programme descriptions and client-side search
-
+- `pages/enquiry.html` — demonstration involvement enquiry form
 
 
 Shared styles and behaviour are in `assets/css/style.css` and `assets/js/script.js`.
