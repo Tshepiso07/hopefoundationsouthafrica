@@ -18,8 +18,13 @@ A responsive, static website concept for a fictional community charity in Gqeber
 ├── index.html
 ├── pages/
 │   ├── about.html
+│   ├── services.html
+│   ├── enquiry.html
+│   └── contact.html
+├── assets/
+│   ├── css/style.css
+│   └── js/script.js
 
-.
 
 
 ## Features
