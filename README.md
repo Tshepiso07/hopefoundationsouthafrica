@@ -47,7 +47,7 @@ A responsive, static website concept for a fictional community charity in Gqeber
 - Unsplash for demonstration photography
 - GitHub Pages for hosting
 
-## Design decisions
+## Design decisions:
 - Relative links throughout so the site works from a project subdirectory.
 - A single shared stylesheet and script for consistency.
 - Warm, people-centred typography and layout to suit a community charity.
