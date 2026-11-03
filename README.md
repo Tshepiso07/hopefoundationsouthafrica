@@ -57,7 +57,9 @@ A responsive, static website concept for a fictional community charity in Gqeber
 - Page titles, meta descriptions and keywords on each page
 - `sitemap.xml` and `robots.txt` included
 Shared styles and behaviour are in `assets/css/style.css` and `assets/js/script.js`.
+
 ## Preview locally
+Open `index.html` in a browser, or serve the folder with a static server:
 
 Open `index.html` in a browser, or serve this folder using a local static web server. The site uses relative asset and page links, so it can also be hosted from a project subdirectory such as GitHub Pages.
 
