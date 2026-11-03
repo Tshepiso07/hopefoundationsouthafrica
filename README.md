@@ -41,6 +41,11 @@ A responsive, static website concept for a fictional community charity in Gqeber
 - Skip-to-content link and semantic HTML landmarks
 - Meta tags, sitemap and robots file for SEO
 
+## Technologies used
+- HTML5, CSS3, JavaScript (vanilla, no frameworks)
+- Google Fonts (DM Sans, Manrope)
+- Unsplash for demonstration photography
+- GitHub Pages for hosting
 
 Shared styles and behaviour are in `assets/css/style.css` and `assets/js/script.js`.
 ## Preview locally
