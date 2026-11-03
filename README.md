@@ -51,7 +51,11 @@ A responsive, static website concept for a fictional community charity in Gqeber
 - Relative links throughout so the site works from a project subdirectory.
 - A single shared stylesheet and script for consistency.
 - Warm, people-centred typography and layout to suit a community charity.
-
+## Accessibility and SEO
+- Skip link, `aria-label` and `aria-expanded` on navigation controls
+- Descriptive `alt` text on images and `lang="en-ZA"` on the document
+- Page titles, meta descriptions and keywords on each page
+- `sitemap.xml` and `robots.txt` included
 Shared styles and behaviour are in `assets/css/style.css` and `assets/js/script.js`.
 ## Preview locally
 
