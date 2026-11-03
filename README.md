@@ -65,7 +65,7 @@ Open `index.html` in a browser, or serve this folder using a local static web se
 
 Form submission validates in the browser and prepares an email using the visitor's default email application. No backend is configured; do not enter real personal information into this demonstration.
 
-## Deployment
+## Deployment:
 
 The sitemap and robots file currently target the GitHub Pages project URL `https://tshepiso07.github.io/hopefoundationsouthafrica/`. Update those URLs if the repository name, account, or hosting domain changes.
 
