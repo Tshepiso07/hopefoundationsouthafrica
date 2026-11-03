@@ -8,6 +8,7 @@ A responsive, static website concept for a fictional community charity in Gqeber
 | Page | File | Purpose |
 |------|------|---------|
 | Home | `index.html` | Introduction, focus areas, call to action |
+| About | `pages/about.html` | Mission, vision and values |
 
 ## Features
 - Responsive layout for mobile, tablet and desktop
