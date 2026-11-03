@@ -18,7 +18,7 @@ A responsive, static website concept for a fictional community charity in Gqeber
 - Client-side programme search
 - Client-side form validation on the enquiry and contact forms
 - Forms prepare an email in the visitor's default mail app (no backend)
-
+- Skip-to-content link and semantic HTML landmarks
 
 
 
