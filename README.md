@@ -69,7 +69,7 @@ Form submission validates in the browser and prepares an email using the visitor
 
 The sitemap and robots file currently target the GitHub Pages project URL `https://tshepiso07.github.io/hopefoundationsouthafrica/`. Update those URLs if the repository name, account, or hosting domain changes.
 
-## Version control
+## Version :
 Work was committed incrementally using short, descriptive messages (for example `feat:`, `style:`, `docs:`, `fix:`).
 
 ## Limitations
