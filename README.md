@@ -12,6 +12,9 @@ A responsive, static website concept for a fictional community charity in Gqeber
 - `pages/enquiry.html` — demonstration involvement enquiry form
 - `pages/contact.html` — demonstration contact form and illustrative location links
 
+## Features
+- Responsive layout for mobile, tablet and desktop
+
 
 Shared styles and behaviour are in `assets/css/style.css` and `assets/js/script.js`.
 ## Preview locally
