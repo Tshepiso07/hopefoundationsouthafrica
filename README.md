@@ -16,6 +16,8 @@ A responsive, static website concept for a fictional community charity in Gqeber
 - Responsive layout for mobile, tablet and desktop
 - Mobile navigation menu toggle
 - Client-side programme search
+- Client-side form validation on the enquiry and contact forms
+- Forms prepare an email in the visitor's default mail app (no backend)
 
 
 
