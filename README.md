@@ -19,7 +19,8 @@ A responsive, static website concept for a fictional community charity in Gqeber
 - Client-side form validation on the enquiry and contact forms
 - Forms prepare an email in the visitor's default mail app (no backend)
 - Skip-to-content link and semantic HTML landmarks
-
+- Skip-to-content link and semantic HTML landmarks
+- Meta tags, sitemap and robots file for SEO
 
 
 Shared styles and behaviour are in `assets/css/style.css` and `assets/js/script.js`.
