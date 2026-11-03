@@ -73,6 +73,8 @@ The sitemap and robots file currently target the GitHub Pages project URL `https
 Work was committed incrementally using short, descriptive messages (for example `feat:`, `style:`, `docs:`, `fix:`).
 
 ## Limitations
+No backend is configured. Do not enter real personal information into the demonstration forms.
+
 
 
 
