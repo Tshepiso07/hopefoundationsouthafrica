@@ -11,6 +11,7 @@ A responsive, static website concept for a fictional community charity in Gqeber
 | About | `pages/about.html` | Mission, vision and values |
 | Programmes | `pages/services.html` | Programme descriptions with search |
 | Get involved | `pages/enquiry.html` | Demonstration involvement form |
+| Contact | `pages/contact.html` | Contact form and illustrative location links |
 
 
 ## Features
