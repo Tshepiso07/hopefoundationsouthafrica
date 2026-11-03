@@ -12,5 +12,12 @@ A responsive, static website concept for a fictional community charity in Gqeber
 - `pages/enquiry.html` — demonstration involvement enquiry form
 - `pages/contact.html` — demonstration contact form and illustrative location links
 Shared styles and behaviour are in `assets/css/style.css` and `assets/js/script.js`.
+## Preview locally
+
+Open `index.html` in a browser, or serve this folder using a local static web server. The site uses relative asset and page links, so it can also be hosted from a project subdirectory such as GitHub Pages.
+
+Form submission validates in the browser and prepares an email using the visitor's default email application. No backend is configured; do not enter real personal information into this demonstration.
+
+
 
 
